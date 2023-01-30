@@ -1,0 +1,7 @@
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\obj\Debug\OpenCloseDemo.csproj.AssemblyReference.cache
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\obj\Debug\OpenCloseDemo.csproj.CoreCompileInputs.cache
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\bin\Debug\OpenCloseDemo.exe.config
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\bin\Debug\OpenCloseDemo.exe
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\bin\Debug\OpenCloseDemo.pdb
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\obj\Debug\OpenCloseDemo.exe
+C:\Users\trajmohx\OneDrive - Intel Corporation\Desktop\Rajmohan\Learning Library\SOLIDPrinciples\OpenCloseDemo\OpenCloseDemo\obj\Debug\OpenCloseDemo.pdb
