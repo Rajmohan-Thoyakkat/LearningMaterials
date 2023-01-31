@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trajmohx\\OneDrive - Intel Corporation\\Desktop\\Rajmohan\\Learning Library\\.Net Core\\EmployeeManagment_NetCore\\EmployeeManagment_Pragim\\EmployeeManagment_Pragim.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trajmohx\\OneDrive - Intel Corporation\\Desktop\\Rajmohan\\Learning Library\\.Net Core\\EmployeeManagment_NetCore\\EmployeeManagment_Pragim\\EmployeeManagment_Pragim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trajmohx\\OneDrive - Intel Corporation\\Desktop\\Rajmohan\\Learning Library\\.Net Core\\EmployeeManagment_NetCore\\EmployeeManagment_Pragim\\EmployeeManagment_Pragim.csproj",
+        "projectName": "EmployeeManagment_Pragim",
+        "projectPath": "C:\\Users\\trajmohx\\OneDrive - Intel Corporation\\Desktop\\Rajmohan\\Learning Library\\.Net Core\\EmployeeManagment_NetCore\\EmployeeManagment_Pragim\\EmployeeManagment_Pragim.csproj",
+        "packagesPath": "C:\\Users\\trajmohx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trajmohx\\OneDrive - Intel Corporation\\Desktop\\Rajmohan\\Learning Library\\.Net Core\\EmployeeManagment_NetCore\\EmployeeManagment_Pragim\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trajmohx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
